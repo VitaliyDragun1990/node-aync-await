@@ -1,0 +1,15 @@
+{
+  "name": "aync-await",
+  "version": "1.0.0",
+  "description": "Simple project demonstrated async-wait functionality",
+  "main": "app-promises.js",
+  "dependencies": {
+    "axios": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitaly Dragun",
+  "license": "ISC"
+}
